@@ -215,8 +215,13 @@ section#about {
   color: #333;
   --color-accent: #ffd700;
 }
-section#work {
+section#projects {
   background-color: #87ceeb;
+  color: #0c0c0c;
+  --color-accent: #2e8b57;
+}
+section#resume {
+  background-color: #20ff6b;
   color: #0c0c0c;
   --color-accent: #2e8b57;
 }
