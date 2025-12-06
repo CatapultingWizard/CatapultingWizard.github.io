@@ -201,7 +201,7 @@ section {
   padding: var(--space-2xl) var(--space-l);
 }
 section#hero {
-  background: linear-gradient(rgba(26, 26, 64, 0.9), rgba(26, 26, 64, 0.9)),
+  background: linear-gradient(rgba(81, 178, 185, 0.9), rgba(15, 89, 107, 0.9)),
     url("assets/background_image.jpg");
   padding-bottom: 4px;
   background-size: cover;
@@ -211,17 +211,17 @@ section#hero {
   --color-accent: #8a2be2;
 }
 section#about {
-  background-color: #ffffff;
+  background-color: #eaf7fa;
   color: #333;
   --color-accent: #ffd700;
 }
 section#projects {
-  background-color: #87ceeb;
+  background-color: #d1d5f0;
   color: #0c0c0c;
   --color-accent: #2e8b57;
 }
 section#resume {
-  background-color: #20ff6b;
+  background-color: #92e4aa;
   color: #0c0c0c;
   --color-accent: #2e8b57;
 }
